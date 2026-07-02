@@ -1,7 +1,7 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [issues discussions wikis](./117-issues-discussions-wikis.md)
+- Previous Up-link: ➡️ [issues discussions wikis](./17-issues-discussions-wikis.md)
 - Next Up-link: ➡️ [maintaining repos](./19-maintaining-repos.md)
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
@@ -87,7 +87,7 @@ As a Senior Systems Architect, you should view these tools as integral to your `
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [issues discussions wikis](./117-issues-discussions-wikis.md)
+- Previous Up-link: ➡️ [issues discussions wikis](./17-issues-discussions-wikis.md)
 - Next Up-link: ➡️ [maintaining repos](./19-maintaining-repos.md)
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
