@@ -1,7 +1,7 @@
 
 ---
 
-# 🧭 **NOW YOUR MAIN README.md — MercWar Publication Edition**
+# 🧭 **NOW THE MAIN README.md — MercWar Publication Edition**
 
 ```markdown
 # 🛡️ MERCWAR PUBLICATION  
