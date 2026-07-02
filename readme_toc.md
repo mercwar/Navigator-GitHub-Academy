@@ -8,7 +8,9 @@
 
 
 
-# 🧭 Navigator GitHub Academy — TOC
+# 💬 Table of Contents
+
+### 🧭 Navigator GitHub Academy 
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 <img 
@@ -18,7 +20,7 @@
 />
 </a>
 
-This file is the **Table of Contents hub** for the MercWar edition of Navigator GitHub Academy.
+✔️ This file is the **Table of Contents hub** for the MercWar edition of Navigator GitHub Academy.
 
 ---
 
