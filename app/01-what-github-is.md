@@ -89,10 +89,22 @@ GitHub functions as a cloud-based enterprise hosting platform, artifact reposito
 ✨Avis Portal
 
 - Gateway 🏠 [Home](../README.md)
-- Previous Up-link 📚 [Full TOC](../README.md#navigator-index-20-pages)
+- Previous Up-link 📚 [Full TOC](../readme_toc.md)
 - Next Up-link: ➡️ [Open source explained](./02-open-source-explained.md)
+---
+
+
+  
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
 
 ---
 
 © 2026 MERCWAR INTELLIGENCE NETWORK  
 All rights reserved.
+
