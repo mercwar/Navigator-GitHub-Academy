@@ -19,7 +19,7 @@
 ### Navigator GitHub Academy — Page 4 of 20
 
 
-# What GitHub Is 
+# Create your first repo
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 
