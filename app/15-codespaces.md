@@ -91,7 +91,14 @@ As an architect, you must be aware that Git history is **permanent**. If a binar
 - Next Up-link: ➡️ [github actions](./16-github-actions.md)
   
 
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 
+<img 
+    src="Copilot_20260702_031403.png" 
+    alt="Mercwar AI" 
+    style="width:100%; height:auto;"
+/>
+</a>
 ---
 
 ---
