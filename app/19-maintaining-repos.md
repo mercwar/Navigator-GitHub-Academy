@@ -82,8 +82,6 @@ As a Senior Systems Architect, you should view these tools as integral to your `
 
 > **Architect’s Directive:** Security is a continuous loop, not a project phase. If you are building tools for the *Fire-Works* browser or any kernel-level component, ensure your repository settings enable "Security Alerts" and "Automatic Secret Scanning" immediately upon initialization.
 
-Would you like me to help you draft a security policy markdown file that you can include in your repositories to enforce these practices across your team?
-
 ---
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
@@ -100,6 +98,7 @@ Would you like me to help you draft a security policy markdown file that you can
     style="width:100%; height:auto;"
 />
 </a>
+
 ---
 
 © 2026 MERCWAR INTELLIGENCE NETWORK  
