@@ -2,8 +2,8 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [Open source licenses](./05-understanding-commits.md)
-- Next Up-link: ➡️ [Understanding commits ](./07-pull-requests.md)
+- Previous Up-link: ➡️ [understanding commits](./05-understanding-commits.md)
+- Next Up-link: ➡️ [pull requests ](./07-pull-requests.md)
 
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
@@ -82,8 +82,8 @@ This tutorial provides a comprehensive look at modern README formatting, includi
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [Open source licenses](./05-understanding-commits.md)
-- Next Up-link: ➡️ [Understanding commits ](./07-pull-requests.md)
+- Previous Up-link: ➡️ [understanding commits](./05-understanding-commits.md)
+- Next Up-link: ➡️ [pull requests ](./07-pull-requests.md)
 
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
