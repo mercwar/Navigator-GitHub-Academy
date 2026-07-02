@@ -1,3 +1,15 @@
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+
+
+# 🧭 Navigator GitHub Academy — TOC
+
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 <img 
     src="app/Copilot_20260702_044810.png" 
@@ -5,9 +17,6 @@
     style="width:100%; height:auto;"
 />
 </a>
-
-
-# 🧭 Navigator GitHub Academy — TOC
 
 This file is the **Table of Contents hub** for the MercWar edition of Navigator GitHub Academy.
 
@@ -64,8 +73,11 @@ This file is the **Table of Contents hub** for the MercWar edition of Navigator 
 
 - **Main README:** [./README.md](./README.md)  
 - **TOC (this file):** [./readme_toc.md](./readme_toc.md)
-
-You can link to this TOC from every page like:
-
-```markdown
-[📚 Full TOC](../readme_toc.md)
+  
+  <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
+<img 
+    src="app/Copilot_20260702_044811.png" 
+    alt="Mercwar AI" 
+    style="width:100%; height:auto;"
+/>
+</a>
