@@ -24,7 +24,7 @@
 
 ---
 
-## 📚 Course Index (20 Pages)
+## 📚 Course Index   ☄️ 🌙 🌌
 
 #### ✅ ✨ FOUNDATION
 
