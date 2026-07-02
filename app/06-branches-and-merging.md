@@ -73,7 +73,7 @@ To ensure your projects remain discoverable and readable by both human engineers
 
 > **Architect's Note:** Your README is the **public interface** of your private engineering. If the documentation defines the interface correctly, you are free to evolve the "guts" of the system—like your *Matrix Drive* memory scanners—without breaking the user experience for those relying on your work.
 
-This tutorial provides a comprehensive look at modern README formatting, including tips for AI-readiness and portfolio integration that align with your professional standards.
+##### This tutorial provides a comprehensive look at modern README formatting, including tips for AI-readiness and portfolio integration that align with your professional standards.
 ---
 
 
