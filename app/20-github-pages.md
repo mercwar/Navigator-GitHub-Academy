@@ -38,7 +38,7 @@ Place this file in the root directory of your repositories or within the `.githu
 
 ### 📜 Standard MERCWAR Security Policy Template
 
-```markdown
+
 # Security Policy
 
 At MERCWAR Systems, we take the security of our low-level kernels and data lake architectures seriously. We appreciate the community's help in identifying and reporting vulnerabilities.
@@ -66,11 +66,8 @@ We provide security maintenance for the following versions:
 | `v0.9` | Security patches only |
 | `v0.8` | End-of-Life |
 
-## Disclosure Policy
-
-1. **Acknowledgment:** We will acknowledge receipt of your report within 48 hours.
-2. **Investigation:** We will investigate the issue and communicate a fix timeline.
-3. **Coordinated Disclosure:** We request that you keep the report confidential until a patch is deployed and a security advisory is published.
+## Disclosure Policys
+N/A
 
 ## Security Best Practices for Contributors
 * **Secret Management:** Never commit API keys, tokens, or local certificates. Use environment variables.
@@ -80,7 +77,7 @@ We provide security maintenance for the following versions:
 ---
 *Last updated: 2026-07-02*
 
-```
+
 
 ---
 
