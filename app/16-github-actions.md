@@ -92,7 +92,6 @@ Are there specific Git internals—such as how to recover from a corrupted tree 
   
 
 
-
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 
 <img 
@@ -101,6 +100,7 @@ Are there specific Git internals—such as how to recover from a corrupted tree 
     style="width:100%; height:auto;"
 />
 </a>
+
 ---
 
 © 2026 MERCWAR INTELLIGENCE NETWORK  
