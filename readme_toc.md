@@ -26,7 +26,7 @@
 
 ## 📚 Course Index (20 Pages)
 
-#### ✨FOUNDATION
+#### ✅ ✨ FOUNDATION
 
  - Page 1: [What GitHub Is](./app/01-what-github-is.md)
  - Page 2: [Open Source Explained](./app/02-open-source-explained.md)
@@ -36,17 +36,17 @@
 
 ---
 
-#### ✨VERSION CONTROL & WORKFLOW
+#### ✅ ✨ VERSION CONTROL & WORKFLOW
 
- - Page 6: Branches & Merging](./app/06-branches-and-merging.md)
- - Page 7: Pull Requests](./app/07-pull-requests.md)
- - Page 8: Forking vs Cloning](./app/08-forking-vs-cloning.md)
- - Page 9: Why Code Is Compiled](./app/09-why-code-is-compiled.md)
- - Page 10: GitHub Desktop](./app/10-github-desktop.md)
+ - Page 6: [Branches & Merging](./app/06-branches-and-merging.md)
+ - Page 7: [Pull Requests](./app/07-pull-requests.md)
+ - Page 8: [Forking vs Cloning](./app/08-forking-vs-cloning.md)
+ - Page 9: [Why Code Is Compiled](./app/09-why-code-is-compiled.md)
+ - Page 10:[GitHub Desktop](./app/10-github-desktop.md)
 
 ---
 
-#### ✨NAVIGATION & DISCOVERY
+#### ✅ ✨ NAVIGATION & DISCOVERY
 
  - Page 11: [Browsing Repositories](./app/11-browsing-repos.md)
  - Page 12: [Searching GitHub](./app/12-searching-github.md)
@@ -55,7 +55,7 @@
 
 ---
 
-#### ✨TOOLS & AUTOMATION
+#### ✅ ✨ TOOLS & AUTOMATION
 
  - Page 15: [GitHub Codespaces](./app/15-codespaces.md)
  - Page 16: [GitHub Actions](./app/16-github-actions.md)
@@ -63,15 +63,15 @@
 
 ---
 
-#### ✨SECURITY & PUBLISHING
+#### ✅ ✨ SECURITY & PUBLISHING
 
- - Page 18:[ Security & Secrets](./app/18-security-and-secrets.md)
+ - Page 18: [Security & Secrets](./app/18-security-and-secrets.md)
  - Page 19: [Maintaining Repositories](./app/19-maintaining-repos.md)
  - Page 20: [GitHub Pages](./app/20-github-pages.md)
 
 ---
 
-### 🔗 Navigation Helpers
+### 🔗 Navigation Helpers 🌍
 
 - **Main README:** [./README.md](./README.md)  
 - **TOC (this file):** [./readme_toc.md](./readme_toc.md)
