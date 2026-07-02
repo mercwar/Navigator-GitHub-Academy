@@ -18,7 +18,7 @@
 
 
 # 🛡️ MERCWAR PUBLICATION  
-### Navigator GitHub Academy — Page 15 of 20
+### Navigator GitHub Academy — Page 14 of 20
 
 
 # Repo Structure
