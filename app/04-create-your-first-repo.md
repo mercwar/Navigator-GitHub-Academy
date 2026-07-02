@@ -19,7 +19,7 @@
 ### Navigator GitHub Academy — Page 4 of 20
 
 
-# Create your first repo
+## 📂 Create Your First Repository
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 
@@ -30,7 +30,7 @@
 />
 </a>
 
-## 📂 Create Your First Repository
+
 
 A repository (or "repo") is the foundational container for your project. Within the MERCWAR ecosystem, it serves as the storage hub for your source code, configuration manifests, and documentation.
 
@@ -85,6 +85,7 @@ When you make your first commit—usually the initial file structure—Git assig
     style="width:100%; height:auto;"
 />
 </a>
+
 ---
 
 © 2026 MERCWAR INTELLIGENCE NETWORK  
