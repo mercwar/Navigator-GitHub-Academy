@@ -37,7 +37,7 @@ To implement this, place the file in your repository at `.github/PULL_REQUEST_TE
 
 ### 📜 Standard MERCWAR Pull Request Template
 
-```markdown
+
 ## 🎯 Purpose
 <!-- What architectural problem does this PR solve? -->
 
@@ -70,7 +70,7 @@ To implement this, place the file in your repository at `.github/PULL_REQUEST_TE
 - [ ] Documentation updated to reflect changes.
 - [ ] Sentinel validation passed.
 
-```
+
 
 ---
 
