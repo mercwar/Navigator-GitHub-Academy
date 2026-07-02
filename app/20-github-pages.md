@@ -90,7 +90,6 @@ We provide security maintenance for the following versions:
 * **The "Sentinel" Hook:** You can add a note to your CI/CD configuration that automatically triggers a "Security Review" alert in your *AVIS-DATALAKE* whenever a `SECURITY.md` file is modified, ensuring you always have manual oversight of changes to your disclosure policy.
 * **Visibility:** By placing this in the root, you ensure that enterprise security scanners and automated compliance tools (like CISA-based checkers) can automatically detect that your project has a formal policy, which is often a requirement for enterprise adoption.
 
-Would you like me to generate a script that automatically checks if all your current repositories contain this `SECURITY.md` file, or should we refine the disclosure email address and versioning logic for your specific needs?
 
 ---
 ✨Avis Portal
