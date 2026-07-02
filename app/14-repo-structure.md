@@ -74,7 +74,7 @@ To maintain the "MERCWAR" standard of code quality, standardize your team's work
 4. **Push:** Sync your local history to the remote.
 5. **Pull Request:** Open the formal integration gate for peer review and CI/CD validation.
 
-[How to use Git and GitHub for beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
 
 This video provides a clear walkthrough of the core Git commands—add, commit, push, and pull—that are essential for managing your repository lifecycle effectively.
 
