@@ -86,7 +86,8 @@ To ensure your project is properly governed within the GitHub and AI-crawling ec
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
 - Previous Up-link: ➡️ [open source explained](./02-open-source-explained.md)
 - Next Up-link: ➡️ [create your first repo](./04-create-your-first-repo.md)
-  
+
+  <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 <img 
     src="Copilot_20260702_031403.png" 
     alt="Mercwar AI" 
