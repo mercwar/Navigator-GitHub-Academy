@@ -64,7 +64,6 @@ GitHub Desktop is a specialized Graphical User Interface (GUI) application desig
 
 > **Architect's Note:** Many professional engineers use a hybrid approach. They rely on GitHub Desktop for high-level monitoring, diff review, and routine commits, while keeping a terminal open to execute complex, granular commands when the project state requires a deeper level of surgical precision.
 
-Are you deciding whether to transition your *Fire-Works* project workflow to a GUI-based approach, or are you looking to teach this tool to a team?
 
 ---
 
