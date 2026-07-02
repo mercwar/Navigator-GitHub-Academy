@@ -1,7 +1,16 @@
 
+
+
 ---
 
 # 🧭 **NOW THE MAIN README.md — MercWar Publication Edition**
+  <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
+<img 
+    src="app/Copilot_20260702_044811.png" 
+    alt="Mercwar AI" 
+    style="width:100%; height:auto;"
+/>
+</a>
 
 ```markdown
 # 🛡️ MERCWAR PUBLICATION  
