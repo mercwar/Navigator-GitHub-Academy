@@ -1,3 +1,12 @@
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
+<img 
+    src="app/Copilot_20260702_044810.png" 
+    alt="Mercwar AI" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+
 # 🧭 Navigator GitHub Academy — TOC
 
 This file is the **Table of Contents hub** for the MercWar edition of Navigator GitHub Academy.
