@@ -15,10 +15,10 @@
 
 
 # 🛡️ MERCWAR PUBLICATION  
-### Navigator GitHub Academy — Page 6 of 20
+### Navigator GitHub Academy — Page 7 of 20
 
 
-# Pull Requests
+## 🔀 Pull Requests (PRs): The Collaborative Integration Engine
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 
@@ -29,7 +29,7 @@
 />
 </a>
 
-## 🔀 Pull Requests (PRs): The Collaborative Integration Engine
+
 
 A Pull Request (PR) is the fundamental mechanism for integrating new code into a shared repository while maintaining quality and project stability. It moves code from an isolated sandbox (a branch) into the official production line, serving as the bridge between independent development and collective deployment.
 
@@ -75,6 +75,7 @@ A Pull Request (PR) is the fundamental mechanism for integrating new code into a
     style="width:100%; height:auto;"
 />
 </a>
+
 ---
 
 © 2026 MERCWAR INTELLIGENCE NETWORK  
