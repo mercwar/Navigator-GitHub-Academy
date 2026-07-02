@@ -1,5 +1,33 @@
+✨Avis Portal
+
+- Gateway 🏠 [Home](../README.md)
+- Gateway Portal 📚 [Full TOC](../readme_toc.md)
+- Previous Up-link: ➡️ [What github is](./01-what-github-is.md)
+- Next Up-link: ➡️ [Open source licenses](./03-open-source-licenses.md)
+
+
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+
+
 # 🛡️ MERCWAR PUBLICATION  
 ### Navigator GitHub Academy — Page 3 of 20
+
+
+# What GitHub Is<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
+<img 
+    src="Copilot_20260702_031403.png" 
+    alt="Mercwar AI" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
 
 # Open Source Licenses
 
@@ -13,10 +41,17 @@ Licenses define how code can be used, modified, and redistributed.
 
 ---
 
-**[🏠 Home](../README.md)**  
-**[⬅️ Back](./02-open-source-explained.md)**  
-**[➡️ Forward](./04-create-your-first-repo.md)**  
-**[📚 Full TOC](../README.md#navigator-index-20-pages)**
+- Gateway 🏠 [Home](../README.md)
+- Gateway Portal 📚 [Full TOC](../readme_toc.md)
+- Previous Up-link: ➡️ [What github is](./02-open-source-explained.md)
+- Next Up-link: ➡️ [Open source licenses](./04-create-your-first-repo.md)
+  
+<img 
+    src="Copilot_20260702_031403.png" 
+    alt="Mercwar AI" 
+    style="width:100%; height:auto;"
+/>
+</a>
 
 ---
 
