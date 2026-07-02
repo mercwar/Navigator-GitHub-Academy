@@ -24,7 +24,7 @@
 
 ---
 
-## 🌙 📚 Course Index  🌌  ☄️ 
+## 📚 Course Index  ☄️ 
 
 #### ✅ ✨ FOUNDATION
 
