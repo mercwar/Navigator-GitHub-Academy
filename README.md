@@ -9,7 +9,7 @@
 
 ---
 
-## 💡 What This <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.html">Tutorial</a> App Is
+## 💡 What This <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.md">Tutorial</a> App Is
 
 The **Navigator GitHub Academy** is a **fully navigable Markdown learning app** built inside a GitHub repository.  
 It transforms a standard README into an interactive course — a guided academy that teaches GitHub fundamentals, open‑source collaboration, version control, automation, and publishing.
@@ -56,7 +56,7 @@ Together, these files form a **self‑contained learning system** that runs enti
 
 ---
 
-## 📚 <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.html">Academy</a> Structure Overview 
+## 📚 <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.md">Academy</a> Structure Overview 
 
 
 ```
@@ -101,7 +101,7 @@ MercWar-Navigator-GitHub-Academy/
 
 ## 🧩 Why It Exists
 
-MercWar built this <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.html">academy</a> to make GitHub learning **immersive and self‑contained**.  
+MercWar built this <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.md">academy</a> to make GitHub learning **immersive and self‑contained**.  
 Instead of static documentation, you get a **living README app** — a guided experience that feels interactive, yet runs entirely in Markdown.
 
 It’s designed for:
@@ -112,7 +112,7 @@ It’s designed for:
 
 ---
 
-Click here to begin the <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.html">Tutorial</a>
+Click here to begin the <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.md">Tutorial</a>
 
 
 ## 🛡️ MercWar Publication Notice
@@ -122,12 +122,7 @@ All content is original, structured, and designed for public learning.
 
 ---
 
-```
-© 2026 MERCWAR INTELLIGENCE NETWORK  
-All rights reserved.  
-Unauthorized reproduction or redistribution is prohibited.
 
-```
 
   <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 <img 
@@ -136,3 +131,10 @@ Unauthorized reproduction or redistribution is prohibited.
     style="width:100%; height:auto;"
 />
 </a>
+
+```
+© 2026 MERCWAR INTELLIGENCE NETWORK  
+All rights reserved.  
+Unauthorized reproduction or redistribution is prohibited.
+
+```
