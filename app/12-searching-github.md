@@ -78,7 +78,6 @@ In professional systems architecture, you rarely need to pick one. Most senior e
 
 > **Architect’s Directive:** For your *Fire-Works* browser development, keep the CLI as your primary tool for complex kernel-level integration, but use GitHub Desktop to visualize the branch tree and review PR changes. This balance ensures your project remains both technically robust and human-readable.
 
-Are you finding that your current workflows are getting blocked by the limitations of the GUI, or are you looking to standardize a team-wide workflow that leverages both?
 
 ---
 ✨Avis Portal
