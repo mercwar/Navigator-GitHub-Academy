@@ -1,8 +1,8 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [Open source licenses](./04-create-your-first-repo.md)
-- Next Up-link: ➡️ [Understanding commits ](./06-branches-and-merging.md)
+- Previous Up-link: ➡️ [create your first repo](./04-create-your-first-repo.md)
+- Next Up-link: ➡️ [branches and merging](./06-branches-and-merging.md)
 
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
@@ -109,8 +109,8 @@ Clearly state the license to avoid ambiguity.
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [Open source licenses](./04-create-your-first-repo.md)
-- Next Up-link: ➡️ [Understanding commits ](./06-branches-and-merging.md)
+- Previous Up-link: ➡️ [create your first repo](./04-create-your-first-repo.md)
+- Next Up-link: ➡️ [branches and merging](./06-branches-and-merging.md)
 
 
 
@@ -122,6 +122,7 @@ Clearly state the license to avoid ambiguity.
     style="width:100%; height:auto;"
 />
 </a>
+
 ---
 
 © 2026 MERCWAR INTELLIGENCE NETWORK  
