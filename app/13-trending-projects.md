@@ -1,9 +1,8 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [browsing repos](./12-searching-github.md)
-- Next Up-link: ➡️ [trending projects](./14-repo-structure.md)
-  
+- Previous Up-link: ➡️ [searching github](./12-searching-github.md)
+- Next Up-link: ➡️ [repo structure](./14-repo-structure.md)
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
@@ -58,14 +57,13 @@ If you have a specific topic in mind that you would like me to expand upon, plea
 * *"Expand on the AVIS-DATALAKE architecture, focusing specifically on how the 'Sentinel' kernel handles data integrity."*
 * *"Expand on the difference between Git merge and Git rebase, using a scenario where I'm dealing with a complex merge conflict in the Fire-Works repo."*
 
-**What topic would you like to expand upon right now?**
 
 ---
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [browsing repos](./12-searching-github.md)
-- Next Up-link: ➡️ [trending projects](./14-repo-structure.md)
+- Previous Up-link: ➡️ [searching github](./12-searching-github.md)
+- Next Up-link: ➡️ [repo structure](./14-repo-structure.md)
   
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
