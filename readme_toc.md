@@ -20,13 +20,13 @@
 />
 </a>
 
-✔️ This file is the **Table of Contents hub** for the MercWar edition of Navigator GitHub Academy.
+📜 This file is the **Table of Contents hub** for the MercWar edition of Navigator GitHub Academy.
 
 ---
 
 ## 📚 Course Index  ☄️ 
 
-#### ✅ ✨ FOUNDATION
+#### ✔️ ✨ FOUNDATION
 
  - Page 1: [What GitHub Is](./app/01-what-github-is.md)
  - Page 2: [Open Source Explained](./app/02-open-source-explained.md)
@@ -36,7 +36,7 @@
 
 ---
 
-#### ✅ ✨ VERSION CONTROL & WORKFLOW
+#### ✔️ ✨ VERSION CONTROL & WORKFLOW
 
  - Page 6: [Branches & Merging](./app/06-branches-and-merging.md)
  - Page 7: [Pull Requests](./app/07-pull-requests.md)
@@ -46,7 +46,7 @@
 
 ---
 
-#### ✅ ✨ NAVIGATION & DISCOVERY
+#### ✔️ ✨ NAVIGATION & DISCOVERY
 
  - Page 11: [Browsing Repositories](./app/11-browsing-repos.md)
  - Page 12: [Searching GitHub](./app/12-searching-github.md)
@@ -55,7 +55,7 @@
 
 ---
 
-#### ✅ ✨ TOOLS & AUTOMATION
+#### ✔️ ✨ TOOLS & AUTOMATION
 
  - Page 15: [GitHub Codespaces](./app/15-codespaces.md)
  - Page 16: [GitHub Actions](./app/16-github-actions.md)
@@ -63,7 +63,7 @@
 
 ---
 
-#### ✅ ✨ SECURITY & PUBLISHING
+#### ✔️ ✨ SECURITY & PUBLISHING
 
  - Page 18: [Security & Secrets](./app/18-security-and-secrets.md)
  - Page 19: [Maintaining Repositories](./app/19-maintaining-repos.md)
