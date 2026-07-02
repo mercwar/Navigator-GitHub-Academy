@@ -20,7 +20,8 @@
 ### Navigator GitHub Academy — Page 1 of 20
 
 
-# What GitHub Is<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
+# What GitHub Is
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar01.byethost3.com">
 <img 
     src="Copilot_20260702_031403.png" 
     alt="Mercwar AI" 
