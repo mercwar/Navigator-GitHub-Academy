@@ -81,7 +81,7 @@ As an architect, you must be aware that Git history is **permanent**. If a binar
 
 > **Architect’s Final Thought:** The command line is not just a tool; it is a **view into the graph**. When you run `git log --graph --oneline`, you are visualizing the evolution of your project's logic. If the graph looks like a tangled mess, your architectural integration is likely just as disorganized. **Clean graphs beget clean code.**
 
-Are there specific Git internals—such as how to recover from a corrupted tree or how to use `git filter-repo` to sanitize your history—that you would like to explore further?
+
 ---
 
 ✨Avis Portal
