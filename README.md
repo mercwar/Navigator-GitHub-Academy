@@ -9,7 +9,7 @@
 
 ---
 
-## 💡 What This <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.md">Tutorial</a> App Is
+## 💡 What This <a target="_self" title="GOTO THE TUTORIAL" href="./readme_toc.md">Tutorial</a> App Is
 
 The **Navigator GitHub Academy** is a **fully navigable Markdown learning app** built inside a GitHub repository.  
 It transforms a standard README into an interactive course — a guided academy that teaches GitHub fundamentals, open‑source collaboration, version control, automation, and publishing.
@@ -101,7 +101,7 @@ MercWar-Navigator-GitHub-Academy/
 
 ## 🧩 Why It Exists
 
-MercWar built this <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.md">academy</a> to make GitHub learning **immersive and self‑contained**.  
+MercWar built this <a target="_self" title="GOTO THE TUTORIAL" href="./readme_toc.md">academy</a> to make GitHub learning **immersive and self‑contained**.  
 Instead of static documentation, you get a **living README app** — a guided experience that feels interactive, yet runs entirely in Markdown.
 
 It’s designed for:
