@@ -18,7 +18,8 @@ Each page acts like a **lesson module**, with **Home**, **Back**, **Forward**, a
 No scripts, no dependencies — just pure Markdown that behaves like an app.
 
 ---
-The <a target="_self" title="GOTO THE TUTORIAL" href="./readme_toc.html">Tutorial</a> is located <a target="_self" title="GOTO THE TUTORIAL" href="./readme_toc.html">HERE</a>
+The <a target="_self" title="GOTO THE TUTORIAL" href="./readme_toc.md">Tutorial</a>
+is located <a target="_self" title="GOTO THE TUTORIAL" href="./readme_toc.md">HERE</a>
 ---
 
 # 🧭 **NOW THE MAIN README.md — MercWar Publication Edition**
