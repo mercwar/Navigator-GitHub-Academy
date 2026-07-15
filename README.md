@@ -57,7 +57,7 @@ Together, these files form a **self‑contained learning system** that runs enti
 
 ---
 
-## 📚 <a target="_self" title="GOTO THE TUTORIAL" href=./"readme_toc.md">Academy</a> Structure Overview 
+##### 📚 <a target="_self" title="GOTO THE TUTORIAL" href="readme_toc.md">Academy</a> Structure Overview 
 
 
 ```
