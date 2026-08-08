@@ -1,7 +1,7 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [create your first repo](./04-create-your-first-repo.md)
+- Previous Up-link: ⬅️ [create your first repo](./04-create-your-first-repo.md)
 - Next Up-link: ➡️ [branches and merging](./06-branches-and-merging.md)
 
 
