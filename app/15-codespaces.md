@@ -1,7 +1,7 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [repo structure](./14-repo-structure.md)
+- Previous Up-link: ⬅️ [repo structure](./14-repo-structure.md)
 - Next Up-link: ➡️ [github actions](./16-github-actions.md)
   
 
