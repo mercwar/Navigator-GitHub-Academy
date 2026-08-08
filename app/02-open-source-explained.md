@@ -2,7 +2,7 @@
 
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](readme_toc.md)
-- Previous Up-link: ➡️ [What github is](./01-what-github-is.md)
+- Previous Up-link: ⬅️ [What github is](./01-what-github-is.md)
 - Next Up-link: ➡️ [Open source licenses](./03-open-source-licenses.md)
 
 
