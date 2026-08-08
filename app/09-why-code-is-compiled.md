@@ -1,7 +1,7 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [forking vs cloning](./08-forking-vs-cloning.md)
+- Previous Up-link: ⬅️ [forking vs cloning](./08-forking-vs-cloning.md)
 - Next Up-link: ➡️ [github desktop](./10-github-desktop.md)
 
 
