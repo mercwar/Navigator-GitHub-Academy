@@ -1,7 +1,7 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [Open source licenses](./03-open-source-licenses.md)
+- Previous Up-link: ⬅️ [Open source licenses](./03-open-source-licenses.md)
 - Next Up-link: ➡️ [Understanding commits ](./05-understanding-commits.md)
 
 
