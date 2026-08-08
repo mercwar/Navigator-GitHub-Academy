@@ -1,7 +1,7 @@
 ✨Avis Portal
 
 - Gateway 🏠 [Home](../README.md)
-- Previous Up-link 📚 [Full TOC](../readme_toc.md)
+- Previous Up-link 📚 [Full TOC](readme_toc.md)
 - Next Up-link: ➡️ [Open source explained](./02-open-source-explained.md)
 
 
