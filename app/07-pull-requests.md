@@ -1,7 +1,7 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [branches and merging](./06-branches-and-merging.md)
+- Previous Up-link: ⬅️ [branches and merging](./06-branches-and-merging.md)
 - Next Up-link: ➡️ [forking vs cloning](./08-forking-vs-cloning.md)
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
