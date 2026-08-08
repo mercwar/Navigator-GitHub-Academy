@@ -1,8 +1,8 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [maintaining repos](./19-maintaining-repos.md)
-
+- Previous Up-link: ⬅️ [maintaining repos](./19-maintaining-repos.md)
+- Next Up-link: ✨ [Mercwar](https://github.com/mercwar)
 
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
 <img 
