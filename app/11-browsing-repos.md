@@ -1,7 +1,7 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [github desktop](./10-github-desktop.md)
+- Previous Up-link: ⬅️ [github desktop](./10-github-desktop.md)
 - Next Up-link: ➡️ [searching github](./12-searching-github.md)
   
 <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
