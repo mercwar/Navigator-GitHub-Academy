@@ -2,7 +2,7 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [understanding commits](./05-understanding-commits.md)
+- Previous Up-link: ⬅️ [understanding commits](./05-understanding-commits.md)
 - Next Up-link: ➡️ [pull requests ](./07-pull-requests.md)
 
 
