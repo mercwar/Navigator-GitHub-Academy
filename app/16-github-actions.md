@@ -1,7 +1,7 @@
 ✨Avis Portal
 - Gateway 🏠 [Home](../README.md)
 - Gateway Portal 📚 [Full TOC](../readme_toc.md)
-- Previous Up-link: ➡️ [codespaces](./15-codespaces.md)
+- Previous Up-link: ⬅️ [codespaces](./15-codespaces.md)
 - Next Up-link: ➡️ [issues discussions wikis](./17-issues-discussions-wikis.md)
   
 
